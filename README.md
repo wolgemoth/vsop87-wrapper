@@ -2,7 +2,7 @@
 
 ### About
 
-This project implements a wrapper providing with a clean interface for those for working with the C++ version of Greg Miller's VSOP87-Multilang and the glm maths library.
+This project implements a wrapper providing a clean interface for those for working with the C++ version of Greg Miller's VSOP87-Multilang and the glm maths library.
 
 If you find a bug or have a feature-request, please raise an issue.
 
